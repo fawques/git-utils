@@ -1,0 +1,6 @@
+git log branch
+==============
+- Split arguments for the wrapper and for each of the log results
+- Don't crash on --graph, etc
+- Manage colors correctly
+- Manage pagination of results correctly
